@@ -1,0 +1,33 @@
+[
+	{
+		"namespaces" : ["com.github.jrgen.example.domain.Product"],
+		"data" : {
+			"cost" : [1.75, 1.00, 1.25, 0.75],
+			"name" : [
+				"Lay's Potato Chips", 
+				"Hanover's Pretzels", 
+				"Wheat Thins",
+				"Frito's Corn Chips",
+				"Popcorner's Popcorn",
+				"Famous Amous Chocolate Chip Cookies",
+				"Big Texas Honeybun",
+				"Kellog's Pop-tarts Frosted Strawberry",
+				"Twix",
+				"Skittles",
+				"Peanut M&M's",
+				"Snickers",
+				"Kit Kat",
+				"Wrigley's Extra",
+				"WinterFresh",
+				"Juicy Fruit",
+				"Wrigley's Spearamint"
+			]
+		}
+	},
+	{
+		"namespaces" : ["com.github.jrgen.example.domain.NutritionFacts"],
+		"data" : {
+			"servingSize" : ["1 bar", "1 bag", "1 package", "4 oz."]
+		}
+	}
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"namespaces" : [
+			"com.github.jrgen.example.domain.NutritionFacts", 
+			"com.github.jrgen.example.domain.PrimitiveNutritionFacts"
+		],
+		"data" : {
+			"calories" : [100, 240, 50, 320],
+			"caloriesFromFat" : [20, 48, 10, 64],
+			"cholesterol" : [4, 15, 17, 20],
+			"fiber" : [0, 5, 7, 3],
+			"servingSize" : ["1 bar", "1 package", "1 cookie", "4 oz"],
+			"totalFat" : [10, 0, 3, 7, 15],
+			"sugar" : [3, 7, 12, 38],
+			"sodium" : [20, 40, 50 ,17],
+			"protein" : [0, 5, 10, 20]
+		}
+	},
+	{
+		"namespaces" : ["java.io.File"],
+		"data" : {
+			"0" : ["C:\\temp.txt", "/usr/home/temp.txt"]
+		}
+	}
+]
